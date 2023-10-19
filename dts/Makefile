@@ -4,7 +4,7 @@
 #
 
 TARGET=newracom
-INSTALL_DIR=/Boot/overlays
+INSTALL_DIR=/boot/overlays
 
 all: ${TARGET}.dtbo
 
